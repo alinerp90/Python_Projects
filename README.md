@@ -1,6 +1,5 @@
 # Python Projects
 
-"""
 This portfolio was created to upload all the personal projects that I am working during my journey learning Python.
 In the directory - Initial Projects - contains some of my first projects worked, it's more simple but was my stating point.
 
@@ -11,4 +10,3 @@ The projects are:
 4. Paper scissor rock game: The classic game, when the user input paper, scissor or rock and the computer reply.
 5. Treasure Map: The user needs to find where is the treasure hidden aleatory. 
 
-"""
